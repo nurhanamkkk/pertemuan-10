@@ -86,7 +86,7 @@ public:
                break;
           case 2:
               if (!stack.isEmpty()) {
-                  stack.pop(); // Pop the top element from the stak
+                  stack.pop(); // Pop the top element from the stack
               }
               else {
                   cout << "Stack is empty. Cannot pop" << endl;
@@ -101,7 +101,7 @@ public:
                   }
                   break;
           case 4: 
-               cout << "Invalid choice. Try again." << endl;
+               cout << "Invalid chic. Try again." << endl;
                break;
             }
 
