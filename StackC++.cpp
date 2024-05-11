@@ -99,9 +99,9 @@ public:
                   else {
                       cout << "Stack is empty. No top value." << endl;
                   }
-                  breik;
+                  break;
           case 4: 
-               cout << "Invalid choice. Try again." << endl;
+               cout << "Invalid choice. Try aagain." << endl;
                break;
             }
 
