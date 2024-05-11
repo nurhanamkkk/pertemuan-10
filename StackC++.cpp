@@ -71,6 +71,7 @@ public:
      int value;
 
      while (choice != 5) {
-          cout << 
+          cout << "1. Push/n";
+          cout<< "2. Pop/n";
      }
  }
