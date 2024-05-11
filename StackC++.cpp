@@ -79,7 +79,12 @@ public:
           cin >> choice;
 
           switch (choice) {
-            
+          case 1:
+               couut << "Enter the value to push: ";
+               cin >> value;
+               stack.push(valuse); // Push the entered value onto the stack 
+               break;
+               
           }
      }
  }
